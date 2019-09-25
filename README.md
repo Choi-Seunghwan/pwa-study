@@ -1,5 +1,5 @@
 # pwa-study
-📖✏️ Postgressive Web App study repo
+📖✏️ Postgressive Web App study repo.
 
 ## 참고
 - [MDN 프로그레시브 웹 앱 소개](https://developer.mozilla.org/ko/docs/Web/Progressive_web_apps/%EC%86%8C%EA%B0%9C)
